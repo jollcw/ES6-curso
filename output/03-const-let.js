@@ -1,16 +1,18 @@
+"use strict";
+
 // * Con var se puede redeclarar variables
 var nombre = 'jordi';
 var nombre = 'Pepe';
-console.log(`nombre ${nombre}`); // ! ES6 con let no permite redeclarar variables
+console.log("nombre ".concat(nombre)); // ! ES6 con let no permite redeclarar variables
 
-let pais = 'Mejico'; // let pais = 'España';
+var pais = 'Mejico'; // let pais = 'España';
 
-console.log(`nombre ${pais}`); // -----------------------------------------------
+console.log("nombre ".concat(pais)); // -----------------------------------------------
 // * dentro de una función ni var ni let ni const son accesibles dentro de una function   
 
 function saluda() {
   var nombre2 = 'john';
-  let apellido = 'Perez'; // return (`${nombre2} - ${apellido}`);
+  var apellido = 'Perez'; // return (`${nombre2} - ${apellido}`);
 
   return nombre2 + apellido;
 }
@@ -24,8 +26,8 @@ var edad = 18;
 
 if (edad >= 18) {
   var esAdulto = true;
-  let esAdulto2 = true;
-  const esAdulto3 = true;
+  var esAdulto2 = true;
+  var esAdulto3 = true;
 }
 
 console.log(esAdulto); // console.log(esAdulto2);
