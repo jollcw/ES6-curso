@@ -19,11 +19,13 @@ https://www.youtube.com/watch?v=LWiMWZ9-cdw&list=PLhSj3UTs2_yX_ct0OfHrmMwKL8wpz-
 * 8 13:49 Curso de ES6 7.- Destructuración de Arreglos  
 https://www.youtube.com/watch?v=eOHcvhO-tuw&list=PLhSj3UTs2_yX_ct0OfHrmMwKL8wpz-N2j&index=8
 
-9 9:23 Curso de ES6 8.- Destructurar Objetos
+* 9 9:23 Curso de ES6 8.- Destructurar Objetos  
 
-10 26:20 Curso de ES6 9.- Classes y Herencia
+* 10 26:20 Curso de ES6 9.- Classes y Herencia
+https://www.youtube.com/watch?v=aGwaV_3tmxo&list=PLhSj3UTs2_yX_ct0OfHrmMwKL8wpz-N2j&index=10
 
-11 5:43 Curso de ES6 10.- Nuevas Formas para Trabajar con Objetos
+* 11 5:43 Curso de ES6 10.- Nuevas Formas para Trabajar con Objetos  
+https://www.youtube.com/watch?v=vbVKO-_Xr5M&list=PLhSj3UTs2_yX_ct0OfHrmMwKL8wpz-N2j&index=11
 
 12 7:16 Curso de ES6 11.- Parametros Rest y Spread
 
