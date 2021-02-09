@@ -16,7 +16,8 @@ https://www.youtube.com/watch?v=LWiMWZ9-cdw&list=PLhSj3UTs2_yX_ct0OfHrmMwKL8wpz-
 
 7 6:43 Curso de ES6 6.- Parámetros por Defecto
 
-8 13:49 Curso de ES6 7.- Destructuración de Arreglos
+* 8 13:49 Curso de ES6 7.- Destructuración de Arreglos  
+https://www.youtube.com/watch?v=eOHcvhO-tuw&list=PLhSj3UTs2_yX_ct0OfHrmMwKL8wpz-N2j&index=8
 
 9 9:23 Curso de ES6 8.- Destructurar Objetos
 
