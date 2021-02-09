@@ -1,8 +1,12 @@
-const nombres = ['carlos', 'Juan', 'Manuel', 'Pedro'];
-const numCaracteres = nombres.map(function (nombre) {
-  console.log(`${nombre} tiene ${nombre.length} letras`);
+"use strict";
+
+var nombres = ['carlos', 'Juan', 'Manuel', 'Pedro'];
+var numCaracteres = nombres.map(function (nombre) {
+  console.log("".concat(nombre, " tiene ").concat(nombre.length, " letras"));
 });
-const numCaracteres2 = nombres.map(nombre => {
-  console.log(`${nombre} tiene ${nombre.length} letras`);
+var numCaracteres2 = nombres.map(function (nombre) {
+  console.log("".concat(nombre, " tiene ").concat(nombre.length, " letras"));
 });
-const numCaracteres3 = nombres.map(nombre => console.log(`${nombre} tiene ${nombre.length} letras`));
+var numCaracteres3 = nombres.map(function (nombre) {
+  return console.log("".concat(nombre, " tiene ").concat(nombre.length, " letras"));
+});
